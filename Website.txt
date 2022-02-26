@@ -1,0 +1,67 @@
+
+        <!DOCTYPE html>
+<html>
+  <head>
+
+    <style>
+    
+
+    td, th {
+      border: 3px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+    </style>
+  </head>
+  <body>
+    <table>
+        <thead> <!-- header -->
+          <tr> <!-- row -->
+            <th>Goal</th> <!-- column -->
+            <th>Goal length</th> <!-- column -->
+            <th>Process</th> <!-- column -->
+          </tr>
+        </thead>
+        <tbody> <!-- body -->
+          <tr> <!-- row -->
+            <td>Build a website</td> <!-- column -->
+            <td>3 months</td> <!-- column -->
+            <td>
+                <ul>
+                    <li>Work on website on my own time</li>
+                    <li>Keep learning and trying on my own</li>
+                    <!-- column -->
+		</ul> 
+
+ 
+            </td>
+          </tr>
+          <tr> <!-- row -->
+            <td>Build a future in programming</td> <!-- column -->
+            <td>Until I have a good jobs in the coding industry</td> <!-- column -->
+            <td>Invest the time and work into learning how to code</td>
+          </tr>
+             <tr> <!-- row -->
+            <td>Try to also build my own company </td> <!-- column -->
+            <td>Until I have a good business that can build me a future </td> <!-- column -->
+            <td>Learn how to create the business I want to make and how to do it</td> <!-- column -->
+          </tr>
+	 </tr>
+             <tr> <!-- row -->
+            <td>Try to also build my own game like Mario  </td> <!-- column -->
+	    <td><img src="https://orig00.deviantart.net/dad8/f/2015/305/b/0/mario_gif_by_ivanrussiansky-d9f6x59.png" id="img" style="width: 878px; height: 494px;"></td> <!-- column -->
+	    <td><img src="https://www.kemplondon.com/wp-content/uploads/2019/12/Welcome-1.jpg" id="img" style="width: 781px; height: 607px;"></td><!-- column -->
+            <td>Start buy learing how to make a game and put in the time and work to learn and understand </td><!-- column -->	
+          </tr>
+        </tbody>
+    </table>
+  </body>
+</html>
+
+
+    </body>    
+</html>
